@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MathQuest</string>
+    <string name="tagline">Kids Math Adventure (Ages 6-9)</string>
+    <string name="theme_jungle">Jungle Safari</string>
+    <string name="theme_space">Space Odyssey</string>
+    <string name="topic_addition">Addition</string>
+    <string name="topic_subtraction">Subtraction</string>
+    <string name="topic_multiplication">Multiplication</string>
+    <string name="topic_fractions">Fractions</string>
+    <string name="parent_dashboard">Parent Zone</string>
+    <string name="avatar_shop">Avatar Rewards</string>
+    <string name="play_now">Start Adventure</string>
+    <string name="voice_narrator_enabled">Voice Narration ON</string>
+    <string name="voice_narrator_disabled">Voice Narration OFF</string>
+    <string name="coppa_certified">100% Ad-Free • Safe &amp; COPPA Compliant</string>
+</resources>

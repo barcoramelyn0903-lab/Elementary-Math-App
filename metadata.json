@@ -1,0 +1,6 @@
+{
+  "name": "MathQuest",
+  "description": "Gamified elementary math adventure for ages 6-9 with Jungle and Space worlds, addition, subtraction, multiplication, fractions, drag-and-drop puzzles, voice narration, avatar unlocks, and parent dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
